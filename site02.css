@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F8F9FA;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+/* Header styles */
+h1, p {
+    color: #423333;
+}
+/* Main content styles */
+.container-fluid {
+    margin-top: 50px;
+}
+.challenge-description {
+    font-size: 18px;
+    line-height: 1.6;
+}
+/* Table styles */
+.examples td {
+    font-size: 16px;
+}
+.examples th {
+    background-color: #000;
+    color: #fff;
+}
+.checkMark, .xMark {
+    font-size: 1.5rem;
+}
+.checkMark {
+    color:rgb(144, 20, 160)5;
+}
+.xMark {
+    color: #DC3545;
+}
+/* Button styles */
+.btn-warning {
+    background-color: #07ff07;
+    border-color: #312a14;
+    color: #333;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.btn-warning:hover {
+    background-color: #E0A800;
+    border-color: #E0A800;
+    color: #333;
+}
+/* Image styles */
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+/* Result styles */
+.display-5 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+
+
+
+
